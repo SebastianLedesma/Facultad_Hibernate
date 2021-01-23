@@ -10,8 +10,8 @@ Construido con:
 Sistema CRUD que administra los profesores y alumnos de una facultad.
 
 Estructura de las tablas:
-profesor | columnas: id,nombre,apellido,curso
-alumno | columnas: id,nombre,apellido,direccion,teléfono,profesor_id
+- profesor | columnas: id,nombre,apellido,curso
+- alumno | columnas: id,nombre,apellido,direccion,teléfono,profesor_id
 
 Listado de métodos:
 ProfesorRepository
